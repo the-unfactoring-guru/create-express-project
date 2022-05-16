@@ -1,0 +1,18 @@
+{
+  "name": "create-express-project",
+  "version": "0.0.1",
+  "description": "Command line application that creates an instant express project using mongoose, ejs, and express. This is to keep in mind that it is made to create an administrative project to manage the server.",
+  "main": "app.js",
+  "repository": "https: www.github.com/devasolutions/create-express-project.git",
+  "author": "The Unfactoring Guru <theunfactoringguru@gmail.com>",
+  "license": "MIT",
+  "private": false,
+  "dependencies": {
+    "commander": "^9.2.0",
+    "ejs": "^3.1.7",
+    "express": "^4.18.1",
+    "materialize-css": "^1.0.0-rc.2",
+    "mongoose": "^6.3.2",
+    "nodemon": "^2.0.16"
+  }
+}
